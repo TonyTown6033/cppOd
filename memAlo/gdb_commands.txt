@@ -1,0 +1,4 @@
+b 61
+r ./alo < memAlo.txt
+layout src
+p tokens 
